@@ -10,6 +10,6 @@ Feito com:
 
 Resultado: 
 
-![image](https://github.com/DMxta/Projeto-Formacao-HTML/assets/136941005/d6edbfb2-7686-49ad-ab8a-cbfd0d0e2393)
+![Captura de tela 2023-06-25 192545](https://github.com/DMxta/Projeto-Formacao-HTML/assets/136941005/792ccce4-caa3-4bcd-96d2-8359b8a66bfc)
 
-![image](https://github.com/DMxta/Projeto-Formacao-HTML/assets/136941005/3e29da88-0534-48cc-8325-5c0bddb44cc3)
+![Captura de tela 2023-06-25 192602](https://github.com/DMxta/Projeto-Formacao-HTML/assets/136941005/c0f99c1c-9cfb-440a-b8f7-8d7bb02e0cf8)
